@@ -32,3 +32,4 @@ https://tomking1983.github.io/module-1-challenge
 
 ### Screenshot of website
 
+![website screenshot](assets/images/website-screenshot.png?raw=true "Title")
