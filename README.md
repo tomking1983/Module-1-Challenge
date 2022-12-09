@@ -25,3 +25,10 @@ SO THAT our own site is optimized for search engines
 * Adding in of comments to indentify sections and/or elements allowing future users to easily follow the structure
 * Consolidation of the CSS
 * Removal of unnecessary CSS classes
+
+### Link to work
+
+https://tomking1983.github.io/module-1-challenge
+
+### Screenshot of website
+
